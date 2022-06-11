@@ -1,0 +1,36 @@
+.heading 
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px paleturquoise; 
+}
+
+.note 
+{
+    font-size: 15px;
+    color: darkgrey;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: papayawhip;
+    bottom: 0;
+    width: 100%;
+    background-color: aqua;
+    line-height: 3;
+    text-align: center;
+}
+
+
+canvas 
+{
+    border: 5px solid whitesmoke;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+body
+{
+    background-image: linear-gradient(to right top, #0c7a2b, #f82525, #edc913, #1580ec);
+}
